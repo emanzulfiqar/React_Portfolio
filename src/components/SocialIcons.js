@@ -10,13 +10,13 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} target="_blank" href="https://github.com/emanzulfiqar">
+      <a className="icon" style={styles.icon} target="_blank" rel="noreferrer" href="https://github.com/emanzulfiqar">
         <i className="fa-brands fa-github" aria-hidden="true" title="Eman Zulfiqar Ghani' GitHub Profile"></i>
       </a>
-      <a className="icon" style={styles.icon} target="_blank"href="https://www.linkedin.com/in/eman-zulfiqar-ghani/">
+      <a className="icon" style={styles.icon} target="_blank"rel="noreferrer" href="https://www.linkedin.com/in/eman-zulfiqar-ghani/">
         <i className="fa-brands fa-linkedin" aria-hidden="true" title="Eman Zulfiqar Ghani' LinkedIn Profile"></i>
       </a>
-      <a className="icon" style={styles.icon} target="_blank" href="https://www.instagram.com//">
+      <a className="icon" style={styles.icon} target="_blank" rel="noreferrer" href="https://www.instagram.com//">
         <i className="fa-brands fa-instagram" aria-hidden="true" title="Eman Zulfiqar Ghani' Instagram Profile"></i>
       </a>
       {/* <a className="icon" style={styles.icon} href="">
