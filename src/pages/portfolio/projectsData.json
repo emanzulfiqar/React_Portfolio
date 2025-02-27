@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Rahper Admin Portal",
+    "image": "./projectImages/rahper-adminportal.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Google Apis | Redux Toolkit | Socket.io ",
+    "description": "Implemented the admin panel for Rahper, a carpooling app, using React.js, PrimeReact, and Redux Toolkit. Ensured a responsive UI, Role-Based Access Control (RBAC), and dynamic routing. Developed key modules like roles management, ride history, support chat, document verification, and SMS logs, enhancing functionality, security, and user experience.",
+    "github": "",
+    "deployed":"https://admin.rahper.com/#/",
+    "bgcolor": "#5052e2",
+    "id": "1"
+  },
+  {
+    "title": "Rahper Web App",
+    "image": "./projectImages/rahper.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Google Apis | Socket.io",
+    "description": "Implemented a similar app to Rahper (Ride Share), featuring multiple functionalities like real-time ride booking, Google Maps APIs integration, and a chat system using Socket.io, all working seamlessly",
+    "deployed":"",
+    "github":"",
+    "bgcolor": "#3a88f4",
+    "id": "2"
+  },
+  {
+    "title": "AIS Dashboard",
+    "image": "./projectImages/dashboard.png",
+    "description": "The company's product is used to manage project timelines, details, project billing status, PMO status, etc. It is currently live (Unable to provide the code due to company's policies)",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | React-Bootstrap",
+    "deployed": "http://aisdashboard.appinsnap.com/#/",
+    "github": "",
+    "bgcolor": "#191c24",
+    "id": "3"
+  },
+  {
+    "title": "APP-IN-SNAP CMS",
+    "image": "./projectImages/ais.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Node | Sql",
+    "description": "Office Product that serves as a CMS(Content Management System) and HRMS(Human Resource Management System). (Regrettably, I'm unable to provide the code due to our company's policies)",
+    "deployed":"https://qa-aisofficerevamp.appinsnap.com/",
+    "github":"",
+    "bgcolor": "#F59E0B",
+    "id": "4"
+  },
+  {
+    "title": "CDA Survey App",
+    "image": "./projectImages/cda-survey.png",
+    "technologies": "React JS | HTML/CSS/SCSS | TypeScript | PrimeReact | AntDesign",
+    "description": "Msafa E-Commerce Portal developed for Canadian Company (Unable to provide the code due to company's policies)",
+    "github": "",
+    "deployed":"https://qa-cdasurveyportal.ermispk.com/#/",
+    "bgcolor": "#2d796d",
+    "id": "5"
+  },
+  {
+    "title": "JACE Portal",
+    "image": "./projectImages/jace-admin.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Material UI | Redux | Socket.io | Google Map APIs",
+    "description": "",
+    "github": "",
+    "deployed":"https://dev-jacepanel.appinsnap.com/",
+    "bgcolor": "#053e74",
+    "id": "6"
+  },
+  {
+    "title": "MSafa E-Commerce Website",
+    "image": "./projectImages/msafa.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | MongoDB",
+    "description": "Msafa E-Commerce Portal developed for Canadian Company (Unable to provide the code due to company's policies)",
+    "github": "",
+    "deployed":"http://qamsafa.appinsnap.com/#/",
+    "bgcolor": "#00aa13",
+    "id": "7"
+  },
+  {
+    "title": "Zindigi Microfinance Banking Portal",
+    "image": "./projectImages/zindigi-portal.jpeg",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Redux ",
+    "description": "....",
+    "github": "",
+    "deployed":"....",
+    "bgcolor": "#38babb",
+    "id": "8"
+  },
+
+
+  
+  {
+    "title": "NCS-Railway",
+    "image": "./projectImages/ncs.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Node | Sql",
+    "description": "Industrial project currently being used by Railways (Regrettably, I'm unable to provide the code due to our company's policies)",
+    "deployed":"http://qa-ncs-railway.appinsnap.com/#/",
+    "github":"",
+    "bgcolor": "#006400",
+    "id": "9"
+  },
+  {
+    "title": "Warehouse MS",
+    "image": "./projectImages/wms.png",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap | PrimeReact | Hardware Integration",
+    "description": "Developed a product based warehouse management system for Finland, also used as a product, where dynamic modules, permissions, inventory, assets, and RFID labeling are managed. This system also integrates hardware for RFID scanners. (Regrettably, I'm unable to provide the code due to company's policies)",
+    "deployed":"https://qa-wms.appinsnap.com/",
+    "github":"",
+    "bgcolor": "#8d7ad5",
+    "id": "10"
+  },
+  {
+    "title": "Farmkar Portal",
+    "image": "./projectImages/farmkar.png",
+    "description": "Developed a project for rural areas connecting farmers, lenders, and customers for equipment import export and related services (Unable to provide the code due to company's policies)",
+    "technologies": "React JS | HTML/CSS/SCSS | React-Bootstrap | PrimeReact",
+    "deployed": "http://qa-farmkarreact.appinsnap.com/",
+    "github": "",
+    "bgcolor": "#798403",
+    "id": "11"
+  },
+  {
+    "title": "HEC Attestation",
+    "image": "./projectImages/hec.png",
+    "description": "Developed an online platform for degree attestation starting from universities POC to HEC administration, utilizing blockchain data (Unable to provide the code and live link due to our policies)",
+    "technologies": "React JS | HTML/CSS/SCSS | Bootstrap",
+    "deployed": "",
+    "github": "",
+    "bgcolor": "lightblue",
+    "id": "12"
+  }
+
+]
